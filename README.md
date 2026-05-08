@@ -26,7 +26,7 @@
   <a href="https://stackoverflow.com/users/rootcode-creator" target="blank"><img src="./profile/social/stackoverflow.svg" alt="stackoverflow" width="44" height="44" /></a>
   <a href="https://kaggle.com/rootcodecreator" target="blank"><img src="./profile/social/kaggle.svg" alt="kaggle" width="44" height="44" /></a>
   <a href="https://twitter.com/mdshakil4364" target="blank"><img src="./profile/social/x.svg" alt="twitter" width="44" height="44" /></a>
-  <a href="https://medium.com/rootcode-creator" target="blank"><img src="./profile/social/medium.svg?v=5" alt="medium" width="44" height="44" /></a>
+  <a href="https://medium.com/rootcode-creator" target="blank"><img src="./profile/social/medium.svg?v=6" alt="medium" width="44" height="44" /></a>
   <a href="https://youtube.com/rootcode-creator" target="blank"><img src="./profile/social/youtube.svg" alt="youtube" width="44" height="44" /></a>
   <a href="https://codechef.com/users/rootcode_crea" target="blank"><img src="./profile/social/codechef.svg" alt="codechef" width="44" height="44" /></a>
 	<a href="https://hackerrank.com/rootcodecreator" target="blank"><img src="./profile/social/hackerrank.svg" alt="hackerrank" width="44" height="44" /></a>
