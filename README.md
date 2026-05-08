@@ -5,9 +5,9 @@
 
 ### A passionate coder,frontend-backend developer, and computer engineering undergrad student from Bangladesh.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootcode-creator&label=Profile%20Views&color=0e75b6&style=plastic" alt="rootcode-creator" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=rootcode-creator&label=Profile%20Views&color=0e75b6&style=plastic)](https://github.com/rootcode-creator)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootcode-creator&theme=flat&no-frame=true" alt="rootcode-creator" /></a> </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rootcode-creator&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjcGg2ZTB2N2d4Yjk2bmw3enV4b2JrNGFhaDluZnU1cWtyZzdnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coding" width="320" />
