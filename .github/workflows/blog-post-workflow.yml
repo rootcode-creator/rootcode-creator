@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://kawserahmed.tech/feed/,https://medium.com/@rootcode-creator,https://www.youtube.com/@rootcode-creator"
+          feed_list: "https://kawserahmed.tech/feed/,https://medium.com/feed/rootcode-creator,https://www.youtube.com/feeds/videos.xml?user=rootcode-creator"
