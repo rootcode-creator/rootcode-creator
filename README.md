@@ -29,9 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&locale=en" alt="rootcode-creator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootcode-creator&" alt="rootcode-creator" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=rootcode-creator" alt="rootcode-creator" /></p>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
