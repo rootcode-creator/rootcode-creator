@@ -1,9 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="Medium">
   <rect width="44" height="44" rx="12" fill="#000000"/>
-  <g fill="#ffffff" transform="translate(7 9)">
-    <circle cx="2.5" cy="5" r="2.5"/>
-    <rect x="0" y="0" width="5" height="10" rx="0.5"/>
-    <path d="M9 0c-2.2 0-4 1.8-4 4v2c0 2.2 1.8 4 4 4s4-1.8 4-4V4c0-2.2-1.8-4-4-4z"/>
-    <rect x="17" y="1" width="3" height="8" rx="0.5"/>
+  <g fill="#ffffff" transform="translate(8 8)">
+    <path d="M2 3v8.5c0 .83.67 1.5 1.5 1.5S6 12.33 6 11.5V3M10 3v6.5c0 1.38 1.12 2.5 2.5 2.5s2.5-1.12 2.5-2.5V3M18 3v8.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V3"/>
   </g>
 </svg>
