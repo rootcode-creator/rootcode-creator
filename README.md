@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:flex-start">
   <a href="https://github.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/github" alt="github" style="width:40px;height:40px;"/></a>
-  <a href="https://linkedin.com/in/kawser2017" target="blank"><img src="https://cdn.simpleicons.org/linkedin" alt="linkedin" style="width:40px;height:40px;"/></a>
+  <a href="https://linkedin.com/in/kawser2017" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="width:40px;height:40px;"/></a>
   <a href="https://stackoverflow.com/users/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/stackoverflow" alt="stackoverflow" style="width:40px;height:40px;"/></a>
   <a href="https://kaggle.com/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/kaggle" alt="kaggle" style="width:40px;height:40px;"/></a>
   <a href="https://twitter.com/mdshakil4364" target="blank"><img src="https://cdn.simpleicons.org/x" alt="twitter" style="width:40px;height:40px;"/></a>
