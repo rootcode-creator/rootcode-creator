@@ -1,12 +1,8 @@
 name: Update README stats cards
 
 on:
-  schedule:
-    - cron: '0 3 * * *'
+  # Disabled: Using manual SVGs instead of auto-generated ones
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
