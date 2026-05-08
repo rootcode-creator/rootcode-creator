@@ -116,9 +116,9 @@
 
 <h3 align="left">Stats:</h3>
 
-<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start">
-  <img src="./profile/top-langs.svg" alt="rootcode-creator top languages" style="max-width:320px; width:100%; height:auto;" />
-  <img src="./profile/stats.svg" alt="rootcode-creator stats" style="max-width:640px; width:100%; height:auto;" />
+<div style="display:flex;flex-wrap:nowrap;gap:12px;align-items:flex-start;justify-content:space-between">
+  <img src="./profile/top-langs.svg" alt="rootcode-creator top languages" style="max-width:280px; width:45%; height:auto;" />
+  <img src="./profile/stats.svg" alt="rootcode-creator stats" style="max-width:480px; width:45%; height:auto;" />
 </div>
 
 
