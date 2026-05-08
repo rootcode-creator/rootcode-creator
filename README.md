@@ -114,10 +114,15 @@
 	</tr>
 </table>
 
+<h3 align="left">Stats:</h3>
+
+
 <div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start">
 	<img src="./profile/top-langs.svg" alt="rootcode-creator top languages" style="max-width:320px; width:100%; height:auto;" />
 	<img src="./profile/stats.svg" alt="rootcode-creator stats" style="max-width:640px; width:100%; height:auto;" />
 </div>
+
+
 
 
 
