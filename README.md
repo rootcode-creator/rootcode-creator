@@ -40,14 +40,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
 	<colgroup>
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
+		<col width="12.5%">
+		<col width="12.5%">
+		<col width="12.5%">
+		<col width="12.5%">
+		<col width="12.5%">
+		<col width="12.5%">
+		<col width="12.5%">
+		<col width="12.5%">
 	</colgroup>
 	<tr>
 		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" height="40" width="40" /></a></td>
