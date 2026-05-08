@@ -126,7 +126,7 @@
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" alt="code" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:14px;line-height:1">📊</span></td>
                 <td style="font-size:14px;font-weight:600;color:#24292f;">Most Used Languages</td>
               </tr>
             </table>
@@ -136,7 +136,7 @@
           <td style="padding:0 18px 18px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" alt="book" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">📓</span></td>
                 <td style="font-size:13px;font-weight:500;">Jupyter Notebook</td>
                 <td align="right" style="font-size:12px;color:#57606a;">84.42%</td>
               </tr>
@@ -144,7 +144,7 @@
                 <td colspan="3" style="font-family:monospace;font-size:12px;color:#0969da;letter-spacing:1px;line-height:1">████████████████░░░░</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/html5.svg" alt="html5" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">🌐</span></td>
                 <td style="font-size:13px;font-weight:500;">HTML</td>
                 <td align="right" style="font-size:12px;color:#57606a;">14.93%</td>
               </tr>
@@ -152,7 +152,7 @@
                 <td colspan="3" style="font-family:monospace;font-size:12px;color:#0969da;letter-spacing:1px;line-height:1">███░░░░░░░░░░░░░░░░░</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" alt="js" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">🧩</span></td>
                 <td style="font-size:13px;font-weight:500;">TypeScript</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.23%</td>
               </tr>
@@ -160,7 +160,7 @@
                 <td colspan="3" style="font-family:monospace;font-size:12px;color:#0969da;letter-spacing:1px;line-height:1">█░░░░░░░░░░░░░░░░░░░</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" alt="python" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">🐍</span></td>
                 <td style="font-size:13px;font-weight:500;">Python</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.19%</td>
               </tr>
@@ -168,7 +168,7 @@
                 <td colspan="3" style="font-family:monospace;font-size:12px;color:#0969da;letter-spacing:1px;line-height:1">█░░░░░░░░░░░░░░░░░░░</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/java.svg" alt="java" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">☕</span></td>
                 <td style="font-size:13px;font-weight:500;">Java</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.14%</td>
               </tr>
@@ -176,7 +176,7 @@
                 <td colspan="3" style="font-family:monospace;font-size:12px;color:#0969da;letter-spacing:1px;line-height:1">█░░░░░░░░░░░░░░░░░░░</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/php.svg" alt="php" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">🐘</span></td>
                 <td style="font-size:13px;font-weight:500;">PHP</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.10%</td>
               </tr>
@@ -194,7 +194,7 @@
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="github" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:14px;line-height:1">⭐</span></td>
                 <td style="font-size:14px;font-weight:600;color:#24292f;">GitHub Stats</td>
               </tr>
             </table>
@@ -204,27 +204,27 @@
           <td style="padding:0 18px 18px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/star.svg" alt="star" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">🏆</span></td>
                 <td style="font-size:13px;font-weight:500;">Total Stars Earned</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">21</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/git.svg" alt="git" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">🔁</span></td>
                 <td style="font-size:13px;font-weight:500;">Total Commits (last year)</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">350</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-pull-request.svg" alt="pull request" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">🔀</span></td>
                 <td style="font-size:13px;font-weight:500;">Total PRs</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/triangle-exclamation.svg" alt="warning" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">⚠️</span></td>
                 <td style="font-size:13px;font-weight:500;">Total Issues</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-column.svg" alt="chart" width="16" height="16"></td>
+                <td width="20" valign="middle"><span style="font-size:13px;line-height:1">📈</span></td>
                 <td style="font-size:13px;font-weight:500;">Contributed to (last year)</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
