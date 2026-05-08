@@ -5,7 +5,7 @@
 
 ### A passionate coder,frontend-backend developer, and computer engineering undergrad student from Bangladesh.
 
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=rootcode-creator&icon=5&color=0" alt="rootcode-creator" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootcode-creator&label=Profile%20Views&color=0e75b6&style=plastic" alt="rootcode-creator" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootcode-creator" alt="rootcode-creator" /></a> </p>
 
