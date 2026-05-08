@@ -117,7 +117,7 @@
 </table>
 
 
-[![](https://github-readme-stats.vercel.app/api?username=rootcode-creator)](https://github.com/rootcode-creator/rootcode-creator)
+[![](https://github-readme-stats.vercel.app/api?username=rootcode-creator&theme=radical)](https://github.com/rootcode-creator/rootcode-creator)
 
 
 
