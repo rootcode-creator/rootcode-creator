@@ -1,26 +1,10 @@
 ﻿<svg width="335" height="195" viewBox="0 0 335 195" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad-stats-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#fff8fb"/>
-    </linearGradient>
-    <linearGradient id="grad-stats-title" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#f093fb"/>
-      <stop offset="100%" stop-color="#f5576c"/>
-    </linearGradient>
-    <filter id="shadow-stats">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
-      <feOffset dx="0" dy="2" result="offsetblur"/>
-      <feComponentTransfer><feFuncA type="linear" slope="0.1"/></feComponentTransfer>
-      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect x="10" y="10" width="315" height="175" rx="12" fill="url(#grad-stats-bg)" stroke="#ffe8f0" stroke-width="1" filter="url(#shadow-stats)"/>
-  <text x="25" y="40" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="bold" fill="url(#grad-stats-title)">GitHub Stats</text>
-  <text x="25" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">⭐ Stars: 21</text>
+  <title>GitHub Stats</title>
+  <text x="25" y="40" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">GitHub Stats</text>
+  <text x="25" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">⭐ Total Stars: 21</text>
   <text x="180" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">📝 Commits: 363</text>
-  <text x="25" y="100" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">🚀 PRs: 0</text>
-  <text x="180" y="100" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">❓ Issues: 0</text>
-  <circle cx="290" cy="80" r="25" fill="none" stroke="#1f2937" stroke-width="2" opacity="0.15"/>
-  <text x="290" y="95" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="24" font-weight="800" fill="#475569">C+</text>
+  <text x="25" y="105" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">🚀 Total PRs: 0</text>
+  <text x="180" y="105" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">❓ Total Issues: 0</text>
+  <circle cx="290" cy="75" r="25" fill="none" stroke="#1f2937" stroke-width="2" opacity="0.15"/>
+  <text x="290" y="88" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="24" font-weight="800" fill="#475569">C+</text>
 </svg>

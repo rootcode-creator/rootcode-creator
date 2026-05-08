@@ -1,28 +1,18 @@
 ﻿<svg width="300" height="165" viewBox="0 0 300 165" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="100%" stop-color="#f8f9ff"/>
-    </linearGradient>
-    <linearGradient id="grad-title" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#667eea"/>
-      <stop offset="100%" stop-color="#764ba2"/>
-    </linearGradient>
-    <filter id="shadow">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
-      <feOffset dx="0" dy="2" result="offsetblur"/>
-      <feComponentTransfer><feFuncA type="linear" slope="0.1"/></feComponentTransfer>
-      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect x="10" y="10" width="280" height="145" rx="12" fill="url(#grad-bg)" stroke="#e5e7eb" stroke-width="1" filter="url(#shadow)"/>
-  <text x="25" y="40" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="bold" fill="url(#grad-title)">Top Languages</text>
+  <title>Most Used Languages</title>
+  <text x="25" y="40" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">Top Languages</text>
   <rect x="25" y="55" width="211" height="6" rx="3" fill="#f59e0b"/>
   <rect x="241" y="55" width="37" height="6" rx="3" fill="#f97316"/>
-  <text x="25" y="75" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">Jupyter Notebook · 84.42%</text>
-  <text x="25" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">HTML · 14.93%</text>
-  <text x="25" y="105" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">TypeScript · 0.23%</text>
-  <text x="155" y="75" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">Python · 0.19%</text>
-  <text x="155" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">Java · 0.14%</text>
-  <text x="155" y="105" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">PHP · 0.10%</text>
+  <circle cx="30" cy="82" r="4" fill="#f59e0b"/>
+  <text x="40" y="86" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">Jupyter Notebook · 84.42%</text>
+  <circle cx="30" cy="102" r="4" fill="#f97316"/>
+  <text x="40" y="106" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">HTML · 14.93%</text>
+  <circle cx="30" cy="122" r="4" fill="#3b82f6"/>
+  <text x="40" y="126" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">TypeScript · 0.23%</text>
+  <circle cx="160" cy="82" r="4" fill="#14b8a6"/>
+  <text x="170" y="86" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">Python · 0.19%</text>
+  <circle cx="160" cy="102" r="4" fill="#a855f7"/>
+  <text x="170" y="106" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">Java · 0.14%</text>
+  <circle cx="160" cy="122" r="4" fill="#64748b"/>
+  <text x="170" y="126" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#475569">PHP · 0.10%</text>
 </svg>
