@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)](https://rishavchanda.io)
+[![MasterHead](https://github.com/rootcode-creator/rootcode-creator/blob/4ae09ce642a894030d2dd5e25cc32a78de153c67/masterimage.gif)](https://github.com/rootcode-creator/rootcode-creator/blob/4ae09ce642a894030d2dd5e25cc32a78de153c67/masterimage.gif)
 
 
 # Hi 👋, I'm Kawser Ahmad
