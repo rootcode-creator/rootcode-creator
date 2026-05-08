@@ -121,7 +121,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&locale=en" alt="" /></p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?user=rootcode-creator&" alt="rootcode-creator" /></p>
 
 
 
