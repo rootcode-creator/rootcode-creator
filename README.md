@@ -114,58 +114,161 @@
 
 
 
+<br clear="right" />
+
 <h3 align="left">Stats:</h3>
 
-<table style="width:100%;border-collapse:collapse;margin:30px 0">
-<tr>
-<td style="width:50%;padding:10px;vertical-align:top">
+<div style="display:flex;flex-wrap:nowrap;gap:24px;align-items:stretch;justify-content:space-between;margin:20px 0;width:100%">
+  <!-- Most Used Languages Card -->
+  <div style="flex:1;border-radius:12px;padding:24px;box-shadow:0 8px 16px rgba(0,0,0,0.1);border:1px solid #e1e4e8;min-width:0">
+    <h4 style="margin:0 0 16px 0;font-size:14px;font-weight:500;color:#666;display:flex;align-items:center;gap:8px"><img src="https://cdn.simpleicons.org/python/1f2937" alt="languages" style="width:18px;height:18px"> Most Used Languages</h4>
+    <div style="display:flex;flex-direction:column;gap:8px;font-size:13px">
+      <div style="display:flex;align-items:center;gap:12px">
+        <div style="width:120px;flex-shrink:0">
+          <div style="display:flex;align-items:center;gap:6px">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" style="width:20px;height:20px">
+            <span style="font-weight:500">Jupyter Notebook</span>
+          </div>
+        </div>
+        <div style="flex:1;display:flex;align-items:center;gap:8px">
+          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
+            <div style="background:#1f2937;height:100%;width:84.42%;position:relative;overflow:hidden">
+              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
+            </div>
+          </div>
+          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">84.42%</span>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px">
+        <div style="width:120px;flex-shrink:0">
+          <div style="display:flex;align-items:center;gap:6px">
+            <img src="https://skillicons.dev/icons?i=html" alt="html" style="width:16px;height:16px">
+            <span style="font-weight:500">HTML</span>
+          </div>
+        </div>
+        <div style="flex:1;display:flex;align-items:center;gap:8px">
+          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
+            <div style="background:#1f2937;height:100%;width:14.93%;position:relative;overflow:hidden">
+              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
+            </div>
+          </div>
+          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">14.93%</span>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px">
+        <div style="width:120px;flex-shrink:0">
+          <div style="display:flex;align-items:center;gap:6px">
+            <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" style="width:16px;height:16px">
+            <span style="font-weight:500">TypeScript</span>
+          </div>
+        </div>
+        <div style="flex:1;display:flex;align-items:center;gap:8px">
+          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
+            <div style="background:#1f2937;height:100%;width:0.23%;position:relative;overflow:hidden">
+              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
+            </div>
+          </div>
+          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.23%</span>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px">
+        <div style="width:120px;flex-shrink:0">
+          <div style="display:flex;align-items:center;gap:6px">
+            <img src="https://skillicons.dev/icons?i=python" alt="python" style="width:16px;height:16px">
+            <span style="font-weight:500">Python</span>
+          </div>
+        </div>
+        <div style="flex:1;display:flex;align-items:center;gap:8px">
+          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
+            <div style="background:#1f2937;height:100%;width:0.19%;position:relative;overflow:hidden">
+              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
+            </div>
+          </div>
+          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.19%</span>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px">
+        <div style="width:120px;flex-shrink:0">
+          <div style="display:flex;align-items:center;gap:6px">
+            <img src="https://skillicons.dev/icons?i=java" alt="java" style="width:16px;height:16px">
+            <span style="font-weight:500">Java</span>
+          </div>
+        </div>
+        <div style="flex:1;display:flex;align-items:center;gap:8px">
+          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
+            <div style="background:#1f2937;height:100%;width:0.14%;position:relative;overflow:hidden">
+              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
+            </div>
+          </div>
+          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.14%</span>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px">
+        <div style="width:120px;flex-shrink:0">
+          <div style="display:flex;align-items:center;gap:6px">
+            <img src="https://skillicons.dev/icons?i=php" alt="php" style="width:16px;height:16px">
+            <span style="font-weight:500">PHP</span>
+          </div>
+        </div>
+        <div style="flex:1;display:flex;align-items:center;gap:8px">
+          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
+            <div style="background:#1f2937;height:100%;width:0.10%;position:relative;overflow:hidden">
+              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
+            </div>
+          </div>
+          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.10%</span>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<div style="background:linear-gradient(135deg,#ffffff 0%,#f8f9ff 100%);border:1px solid #e8e8ff;border-radius:16px;padding:24px;box-shadow:0 8px 32px rgba(99,102,241,0.1)">
-<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;color:#667eea">📊 Top Languages</h4>
-
-<svg width="280" height="140" viewBox="0 0 280 140" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="280" height="140" rx="8" fill="#ffffff"/>
-  <rect x="10" y="10" width="211" height="8" rx="4" fill="#f59e0b"/>
-  <rect x="226" y="10" width="37" height="8" rx="4" fill="#f97316"/>
-  <rect x="10" y="28" width="211" height="8" rx="4" fill="#f59e0b" opacity="0.6"/>
-  <rect x="226" y="28" width="37" height="8" rx="4" fill="#f97316" opacity="0.6"/>
-  <text x="10" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">Jupyter Notebook · 84.42%</text>
-  <text x="10" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">HTML · 14.93%</text>
-  <text x="10" y="84" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">TypeScript · 0.23%</text>
-  <text x="150" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">Python · 0.19%</text>
-  <text x="150" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">Java · 0.14%</text>
-  <text x="150" y="84" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">PHP · 0.10%</text>
-</svg>
-
+  <!-- GitHub Stats Card -->
+  <div style="flex:1;border-radius:12px;padding:24px;box-shadow:0 8px 16px rgba(0,0,0,0.1);border:1px solid #e1e4e8;min-width:0">
+    <h4 style="margin:0 0 16px 0;font-size:14px;font-weight:500;color:#666;display:flex;align-items:center;gap:8px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" style="width:18px;height:18px"> GitHub Stats</h4>
+    <div style="display:flex;flex-direction:column;gap:12px;font-size:13px">
+      <div style="display:flex;align-items:center;justify-content:space-between">
+        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
+          <svg style="width:20px;height:20px;fill:#FFD700" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          <span>Total Stars Earned</span>
+        </div>
+        <div style="font-weight:600;color:#1f2937">21</div>
+      </div>
+      <div style="display:flex;align-items:center;justify-content:space-between">
+        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="commits" style="width:20px;height:20px">
+          <span>Total Commits (last year)</span>
+        </div>
+        <div style="font-weight:600;color:#1f2937">350</div>
+      </div>
+      <div style="display:flex;align-items:center;justify-content:space-between">
+        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
+          <svg style="width:20px;height:20px;fill:#1f2937" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
+          <span>Total PRs</span>
+        </div>
+        <div style="font-weight:600;color:#1f2937">0</div>
+      </div>
+      <div style="display:flex;align-items:center;justify-content:space-between">
+        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
+          <svg style="width:20px;height:20px;fill:#E74C3C" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg>
+          <span>Total Issues</span>
+        </div>
+        <div style="font-weight:600;color:#1f2937">0</div>
+      </div>
+      <div style="display:flex;align-items:center;justify-content:space-between">
+        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
+          <svg style="width:20px;height:20px;fill:#1f2937" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2V17zm4 0h-2V7h2V17zm4 0h-2v-4h2V17z"/></svg>
+          <span>Contributed to (last year)</span>
+        </div>
+        <div style="font-weight:600;color:#1f2937">0</div>
+      </div>
+    </div>
+  </div>
 </div>
-
-</td>
-<td style="width:50%;padding:10px;vertical-align:top">
-
-<div style="background:linear-gradient(135deg,#ffffff 0%,#fff8fb 100%);border:1px solid #ffe8f0;border-radius:16px;padding:24px;box-shadow:0 8px 32px rgba(245,87,108,0.1)">
-<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;color:#f5576c">📈 GitHub Stats</h4>
-
-<svg width="280" height="140" viewBox="0 0 280 140" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="280" height="140" rx="8" fill="#ffffff"/>
-  <text x="10" y="30" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">⭐ 21 Stars</text>
-  <text x="150" y="30" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">📝 363 Commits</text>
-  <text x="10" y="65" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">🚀 0 PRs</text>
-  <text x="150" y="65" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">❓ 0 Issues</text>
-  <circle cx="240" cy="50" r="20" fill="none" stroke="#1f2937" stroke-width="2" opacity="0.2"/>
-  <text x="240" y="60" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="800" fill="#475569">C+</text>
-</svg>
-
-</div>
-
-</td>
-</tr>
-</table>
 
 
 <br clear="right" />
 
 
 # Blog posts
-<!-- README auto-update trigger: 2026-05-08T00:00:00Z -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
