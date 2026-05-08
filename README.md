@@ -127,7 +127,7 @@
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
                 <td width="20" valign="middle"><img src="https://cdn.simpleicons.org/vscode/007ACC" alt="vscode" width="18" height="18"></td>
-                <td style="font-size:14px;font-weight:600;color:#0969da;">Most Used Languages</td>
+                <td style="font-size:14px;font-weight:600;color:#24292f;">Most Used Languages</td>
               </tr>
             </table>
           </td>
@@ -142,9 +142,9 @@
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="84.42%" style="background:#0969da;height:10px;"></td>
+                      <td width="84.42%" style="background:#1f2937;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -157,9 +157,9 @@
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="14.93%" style="background:#0969da;height:10px;"></td>
+                      <td width="14.93%" style="background:#1f2937;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -172,9 +172,9 @@
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.23%" style="background:#0969da;height:10px;"></td>
+                      <td width="0.23%" style="background:#1f2937;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -187,9 +187,9 @@
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.19%" style="background:#0969da;height:10px;"></td>
+                      <td width="0.19%" style="background:#1f2937;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -202,9 +202,9 @@
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.14%" style="background:#0969da;height:10px;"></td>
+                      <td width="0.14%" style="background:#1f2937;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -217,9 +217,9 @@
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.10%" style="background:#0969da;height:10px;"></td>
+                      <td width="0.10%" style="background:#1f2937;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -237,7 +237,7 @@
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
                 <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="18" height="18"></td>
-                <td style="font-size:14px;font-weight:600;color:#0969da;">GitHub Stats</td>
+                <td style="font-size:14px;font-weight:600;color:#24292f;">GitHub Stats</td>
               </tr>
             </table>
           </td>
@@ -246,7 +246,7 @@
           <td style="padding:0 18px 18px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></td>
                 <td style="font-size:13px;font-weight:500;color:#24292f;">Total Stars Earned</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">21</td>
               </tr>
@@ -256,17 +256,17 @@
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">350</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></td>
                 <td style="font-size:13px;font-weight:500;color:#24292f;">Total PRs</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#f14c4c" d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg></td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg></td>
                 <td style="font-size:13px;font-weight:500;color:#24292f;">Total Issues</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2V17zm4 0h-2V7h2V17zm4 0h-2v-4h2V17z"/></svg></td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2V17zm4 0h-2V7h2V17zm4 0h-2v-4h2V17z"/></svg></td>
                 <td style="font-size:13px;font-weight:500;color:#24292f;">Contributed to (last year)</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
