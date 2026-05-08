@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
-  <polygon points="60,6 104,30 104,90 60,114 16,90 16,30" fill="#00EA64"/>
-  <!-- HackerRank 'H' icon: two vertical bars and a connecting bar -->
-  <rect x="36" y="30" width="8" height="60" rx="2" ry="2" fill="#ffffff"/>
-  <rect x="76" y="30" width="8" height="60" rx="2" ry="2" fill="#ffffff"/>
-  <rect x="46" y="54" width="28" height="12" rx="2" ry="2" fill="#ffffff"/>
-</svg>
