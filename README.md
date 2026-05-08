@@ -39,10 +39,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="./profile/top-langs.svg" alt="rootcode-creator top languages" /></p>
-
-<p><img align="center" src="./profile/stats.svg" alt="rootcode-creator stats" /></p>
-
 <table>
 	<tr>
 		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a></td>
@@ -118,19 +114,9 @@
 	</tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootcode-creator&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p><img align="left" src="./profile/top-langs.svg" alt="rootcode-creator top languages" /></p>
 
-<picture>
-	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&theme=dark"
-		media="(prefers-color-scheme: dark)"
-	/>
-	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true"
-		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true" alt="" />
-</picture>
+<p><img align="center" src="./profile/stats.svg" alt="rootcode-creator stats" /></p>
 
 
 
