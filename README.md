@@ -39,91 +39,95 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
-	<colgroup>
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-		<col style="width: 12.5%;">
-	</colgroup>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=babel" alt="babel" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" height="50" width="50" /></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=babel" alt="babel" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" height="50" width="50" /></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" height="50" width="50" /></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="gcp" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" height="50" width="50" /></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama" alt="ollama" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" alt="heroku" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" height="50" width="50" /></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="php" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" height="50" width="50" /></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" height="50" width="50" /></a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/vagrant" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="vagrant" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack" height="40" width="40" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" height="40" width="40" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="50" width="50" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="nginx" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" height="50" width="50" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ollama" alt="ollama" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="50" width="50" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="php" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" height="50" width="50" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" height="50" width="50" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" height="50" width="50" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" height="50" width="50" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/vagrant" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="vagrant" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=webpack" alt="webpack" height="50" width="50" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" height="50" width="50" /></a></td>
 	</tr>
 </table>
 
