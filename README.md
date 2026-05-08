@@ -1,6 +1,4 @@
-<p align="center">
-	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjcGg2ZTB2N2d4Yjk2bmw3enV4b2JrNGFhaDluZnU1cWtyZzdnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coding" width="100%" />
-</p>
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)](https://rishavchanda.io)
 
 
 # Hi 👋, I'm Kawser Ahmad
