@@ -20,22 +20,20 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<table>
-	<tr>
-		<td align="center"><a href="https://github.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://linkedin.com/in/kawser2017" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawser2017" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://stackoverflow.com/users/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://kaggle.com/rootcodecreator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rootcodecreator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://twitter.com/mdshakil4364" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdshakil4364" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://medium.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://youtube.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://codechef.com/users/rootcode_crea" target="blank"><img src="https://cdn.simpleicons.org/codechef" alt="rootcode_crea" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://hackerrank.com/rootcodecreator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rootcodecreator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://codeforces.com/profile/cherry-picked" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cherry-picked" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://leetcode.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://auth.geeksforgeeks.org/user/rootcodecreator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rootcodecreator" height="30" width="40" /></a></td>
-	</tr>
-</table>
+<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:flex-start">
+  <a href="https://github.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/github/ffffff?bg=000000" alt="github" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#000;"/></a>
+  <a href="https://linkedin.com/in/kawser2017" target="blank"><img src="https://cdn.simpleicons.org/linkedin/ffffff?bg=0A66C2" alt="linkedin" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#0A66C2;"/></a>
+  <a href="https://stackoverflow.com/users/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/stackoverflow/ffffff?bg=F58025" alt="stackoverflow" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#F58025;"/></a>
+  <a href="https://kaggle.com/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/kaggle/ffffff?bg=20BEFF" alt="kaggle" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#20BEFF;"/></a>
+  <a href="https://twitter.com/mdshakil4364" target="blank"><img src="https://cdn.simpleicons.org/twitter/ffffff?bg=1DA1F2" alt="twitter" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#1DA1F2;"/></a>
+  <a href="https://medium.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/medium/ffffff?bg=000000" alt="medium" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#000;"/></a>
+  <a href="https://youtube.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/youtube/ffffff?bg=FF0000" alt="youtube" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#FF0000;"/></a>
+  <a href="https://codechef.com/users/rootcode_crea" target="blank"><img src="https://cdn.simpleicons.org/codechef/ffffff?bg=5B4D0F" alt="codechef" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#5B4D0F;"/></a>
+  <a href="https://hackerrank.com/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/hackerrank/ffffff?bg=00EA64" alt="hackerrank" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#00EA64;"/></a>
+  <a href="https://codeforces.com/profile/cherry-picked" target="blank"><img src="https://cdn.simpleicons.org/codeforces/ffffff?bg=1F1C1C" alt="codeforces" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#1F1C1C;"/></a>
+  <a href="https://leetcode.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/leetcode/ffffff?bg=FFA116" alt="leetcode" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#FFA116;"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/geeksforgeeks/ffffff?bg=0F9D58" alt="geeksforgeeks" style="width:48px;height:48px;border-radius:8px;padding:4px;background:#0F9D58;"/></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
