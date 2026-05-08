@@ -21,18 +21,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:flex-start">
-  <a href="https://github.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/github" alt="github" style="width:40px;height:40px;"/></a>
-  <a href="https://linkedin.com/in/kawser2017" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="width:40px;height:40px;"/></a>
-  <a href="https://stackoverflow.com/users/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/stackoverflow" alt="stackoverflow" style="width:40px;height:40px;"/></a>
-  <a href="https://kaggle.com/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/kaggle" alt="kaggle" style="width:40px;height:40px;"/></a>
-  <a href="https://twitter.com/mdshakil4364" target="blank"><img src="https://cdn.simpleicons.org/x" alt="twitter" style="width:40px;height:40px;"/></a>
-  <a href="https://medium.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/medium" alt="medium" style="width:40px;height:40px;"/></a>
-  <a href="https://youtube.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/youtube" alt="youtube" style="width:40px;height:40px;"/></a>
-  <a href="https://codechef.com/users/rootcode_crea" target="blank"><img src="https://cdn.simpleicons.org/codechef" alt="codechef" style="width:40px;height:40px;"/></a>
-  <a href="https://hackerrank.com/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/hackerrank" alt="hackerrank" style="width:40px;height:40px;"/></a>
-  <a href="https://codeforces.com/profile/cherry-picked" target="blank"><img src="https://cdn.simpleicons.org/codeforces" alt="codeforces" style="width:40px;height:40px;"/></a>
-  <a href="https://leetcode.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/leetcode" alt="leetcode" style="width:40px;height:40px;"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/geeksforgeeks" alt="geeksforgeeks" style="width:40px;height:40px;"/></a>
+  <a href="https://github.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/github" alt="github" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://linkedin.com/in/kawser2017" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://stackoverflow.com/users/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/stackoverflow" alt="stackoverflow" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://kaggle.com/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/kaggle" alt="kaggle" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://twitter.com/mdshakil4364" target="blank"><img src="https://cdn.simpleicons.org/x" alt="twitter" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://medium.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/medium" alt="medium" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://youtube.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/youtube" alt="youtube" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://codechef.com/users/rootcode_crea" target="blank"><img src="https://cdn.simpleicons.org/codechef" alt="codechef" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://hackerrank.com/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/hackerrank" alt="hackerrank" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://codeforces.com/profile/cherry-picked" target="blank"><img src="https://cdn.simpleicons.org/codeforces" alt="codeforces" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://leetcode.com/rootcode-creator" target="blank"><img src="https://cdn.simpleicons.org/leetcode" alt="leetcode" style="width:40px;height:40px;border-radius:8px;"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/rootcodecreator" target="blank"><img src="https://cdn.simpleicons.org/geeksforgeeks" alt="geeksforgeeks" style="width:40px;height:40px;border-radius:8px;"/></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
