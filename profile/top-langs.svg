@@ -1,30 +1,25 @@
-﻿<svg width="300" height="165" viewBox="0 0 300 165" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+﻿<svg width="300" height="165" viewBox="0 0 300 165" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="card-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="100%" stop-color="#f8f9ff" />
+    <linearGradient id="bg1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#f8f9ff;stop-opacity:1"/>
     </linearGradient>
-    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#667eea" />
-      <stop offset="100%" stop-color="#764ba2" />
+    <linearGradient id="title1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1"/>
     </linearGradient>
   </defs>
-  <title id="titleId"></title>
-  <desc id="descId"></desc>
-  <rect x="0.5" y="0.5" width="299" height="164" rx="12" fill="url(#card-bg-grad)" stroke="#e5e7eb" stroke-width="1"/>
-  <g transform="translate(25, 35)">
-    <text x="0" y="0" font-size="18" font-weight="600" font-family="Segoe UI, Ubuntu, Sans-Serif">
-      <tspan fill="url(#title-grad)">Top Languages</tspan>
-    </text>
-  </g>
-  <g transform="translate(25, 70)">
-    <rect x="0" y="0" width="211.04" height="8" rx="4" fill="#f59e0b"/>
-    <rect x="216" y="0" width="37.32" height="8" rx="4" fill="#f97316"/>
-    <text x="0" y="20" font-size="11" font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#475569">Jupyter Notebook · 84.42%</text>
-    <text x="0" y="45" font-size="11" font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#475569">HTML · 14.93%</text>
-    <text x="0" y="70" font-size="11" font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#475569">TypeScript · 0.23%</text>
-    <text x="150" y="20" font-size="11" font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#475569">Python · 0.19%</text>
-    <text x="150" y="45" font-size="11" font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#475569">Java · 0.14%</text>
-    <text x="150" y="70" font-size="11" font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#475569">PHP · 0.10%</text>
+  <rect width="300" height="165" rx="16" fill="url(#bg1)"/>
+  <rect width="300" height="165" rx="16" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="25" y="40" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18" font-weight="600" fill="url(#title1)">Top Languages</text>
+  <g transform="translate(25, 65)">
+    <rect x="0" y="0" width="211" height="8" rx="4" fill="#f59e0b"/>
+    <rect x="216" y="0" width="37" height="8" rx="4" fill="#f97316"/>
+    <text x="0" y="25" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#475569">Jupyter Notebook · 84.42%</text>
+    <text x="0" y="45" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#475569">HTML · 14.93%</text>
+    <text x="0" y="65" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#475569">TypeScript · 0.23%</text>
+    <text x="140" y="25" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#475569">Python · 0.19%</text>
+    <text x="140" y="45" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#475569">Java · 0.14%</text>
+    <text x="140" y="65" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" fill="#475569">PHP · 0.10%</text>
   </g>
 </svg>
