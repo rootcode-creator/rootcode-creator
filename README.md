@@ -5,26 +5,13 @@
 
 ### A passionate coder,frontend-backend developer, and computer engineering undergrad student from Bangladesh.
 
-<p><img align="left" src="./profile/top-langs.svg" alt="rootcode-creator top languages" /></p>
-
-<p><img align="center" src="./profile/stats.svg" alt="rootcode-creator stats" /></p>
 <p>
 	<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjcGg2ZTB2N2d4Yjk2bmw3enV4b2JrNGFhaDluZnU1cWtyZzdnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coding" width="320" />
 </p>
 
+<p><img align="left" src="./profile/top-langs.svg" alt="rootcode-creator top languages" /></p>
 
-
-<p>📫 How to reach me <strong>mdshakil4364@gmail.com</strong></p>
-<p>⚡ Fun fact <strong>There are more possible moves in a game of Chess than there are atoms in the observable universe.</strong></p>
-<p>👨‍💻 All of my projects are available at <strong><a href="https://github.com/rootcode-creator">Github</a></strong></p>
-<p>📝 I regularly write articles on <strong><a href="https://kawserahmed.tech">https://kawserahmed.tech</a></strong></p>
-
-<br clear="right" />
-
-
-<h3 align="left">Connect with me:</h3>
-<table>
-	<tr>
+<p><img align="center" src="./profile/stats.svg" alt="rootcode-creator stats" /></p>
 		<td align="center"><a href="https://github.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
 		<td align="center"><a href="https://linkedin.com/in/kawser2017" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kawser2017" height="30" width="40" /></a></td>
 		<td align="center"><a href="https://stackoverflow.com/users/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
@@ -127,7 +114,7 @@
 		srcset="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true" alt="rootcode-creator" />
+	<img src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true" alt="" />
 </picture>
 
 
