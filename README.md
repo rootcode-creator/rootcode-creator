@@ -116,9 +116,17 @@
 
 <h3 align="left">Stats:</h3>
 
-<div style="display:flex;gap:20px;justify-content:center;align-items:stretch;flex-wrap:wrap;margin:30px 0">
-	<img src="https://raw.githubusercontent.com/rootcode-creator/rootcode-creator/main/profile/top-langs.svg" alt="Top languages" style="width:48%;max-width:420px;height:260px;object-fit:contain;border-radius:12px;" />
-	<img src="https://raw.githubusercontent.com/rootcode-creator/rootcode-creator/main/profile/stats.svg" alt="GitHub stats" style="width:48%;max-width:420px;height:260px;object-fit:contain;border-radius:12px;" />
+<div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:stretch;margin:30px 0;padding:20px">
+  <div style="flex:1;min-width:320px;padding:24px;border-radius:16px;border:2px solid #e8e8ff;background:linear-gradient(135deg,#ffffff 0%,#f8f9ff 100%);box-shadow:0 8px 32px rgba(99,102,241,0.1);transition:all 0.3s ease;overflow:hidden;position:relative">
+    <div style="position:absolute;top:-50px;right:-50px;width:150px;height:150px;background:radial-gradient(circle,rgba(99,102,241,0.1) 0%,transparent 70%);border-radius:50%"></div>
+	<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;letter-spacing:0.3px;text-transform:none;display:flex;align-items:center;gap:10px"><span style="width:10px;height:10px;border-radius:999px;background:linear-gradient(135deg,#0f172a 0%,#475569 100%);box-shadow:0 0 0 4px rgba(71,85,105,0.12);flex:0 0 auto"></span>Languages</h4>
+    <img src="https://raw.githubusercontent.com/rootcode-creator/rootcode-creator/main/profile/top-langs.svg" alt="rootcode-creator top languages" style="width:100%;height:260px;object-fit:contain;border-radius:12px;position:relative;z-index:1" />
+  </div>
+  <div style="flex:1;min-width:320px;padding:24px;border-radius:16px;border:2px solid #ffe8f0;background:linear-gradient(135deg,#ffffff 0%,#fff8fb 100%);box-shadow:0 8px 32px rgba(245,87,108,0.1);transition:all 0.3s ease;overflow:hidden;position:relative">
+    <div style="position:absolute;top:-50px;right:-50px;width:150px;height:150px;background:radial-gradient(circle,rgba(245,87,108,0.1) 0%,transparent 70%);border-radius:50%"></div>
+	<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;letter-spacing:0.3px;text-transform:none;display:flex;align-items:center;gap:10px"><span style="width:10px;height:10px;border-radius:999px;background:linear-gradient(135deg,#0f172a 0%,#475569 100%);box-shadow:0 0 0 4px rgba(71,85,105,0.12);flex:0 0 auto"></span>Stats</h4>
+    <img src="https://raw.githubusercontent.com/rootcode-creator/rootcode-creator/main/profile/stats.svg" alt="rootcode-creator stats" style="width:100%;height:260px;object-fit:contain;border-radius:12px;position:relative;z-index:1" />
+  </div>
 </div>
 
 
