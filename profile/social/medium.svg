@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" role="img" aria-label="Medium">
   <rect width="44" height="44" rx="12" fill="#000000"/>
-  <path fill="#ffffff" d="M9 10v14h2v-11l4 6.5 4-6.5v11h2V10h-2l-4 6-4-6H9zm14 0c-2.21 0-4 1.79-4 4v6c0 2.21 1.79 4 4 4s4-1.79 4-4v-6c0-2.21-1.79-4-4-4zm0 2c1.1 0 2 .9 2 2v6c0 1.1-.9 2-2 2s-2-.9-2-2v-6c0-1.1.9-2 2-2z"/>
+  <circle cx="13" cy="22" r="6" fill="#ffffff"/>
+  <ellipse cx="24" cy="22" rx="4" ry="5" fill="#ffffff"/>
+  <ellipse cx="32" cy="22" rx="2" ry="4" fill="#ffffff"/>
 </svg>
