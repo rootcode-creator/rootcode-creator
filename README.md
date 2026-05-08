@@ -134,5 +134,6 @@
 
 
 # Blog posts
+<!-- README auto-update trigger: 2026-05-08T00:00:00Z -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
