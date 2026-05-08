@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #1f2937;
+            fill: #006AFF;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #475569;
+      fill: #417E87;
     }
     .stagger {
       opacity: 0;
@@ -91,9 +91,9 @@
           y="0.5"
           rx="4.5"
           height="99%"
-          stroke="#e5e7eb"
+          stroke="#e4e2e2"
           width="299"
-          fill="#ffffff"
+          fill="#ffffff00"
           stroke-opacity="1"
         />
 
@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Top Languages</text>
+      >Most Used Languages</text>
     </g>
       </g>
     
@@ -132,7 +132,7 @@
           y="0"
           width="211.04"
           height="8"
-          fill="#f59e0b"
+          fill="#DA5B0B"
         />
       
         <rect
@@ -142,7 +142,7 @@
           y="0"
           width="37.32"
           height="8"
-          fill="#f97316"
+          fill="#e34c26"
         />
       
         <rect
@@ -152,7 +152,7 @@
           y="0"
           width="10.57"
           height="8"
-          fill="#3b82f6"
+          fill="#3178c6"
         />
       
         <rect
@@ -162,7 +162,7 @@
           y="0"
           width="10.47"
           height="8"
-          fill="#14b8a6"
+          fill="#3572A5"
         />
       
         <rect
@@ -172,7 +172,7 @@
           y="0"
           width="10.35"
           height="8"
-          fill="#a855f7"
+          fill="#b07219"
         />
       
         <rect
@@ -182,51 +182,51 @@
           y="0"
           width="10.24"
           height="8"
-          fill="#64748b"
+          fill="#4F5D95"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f59e0b" />
+      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook · 84.42%
+        Jupyter Notebook 84.42%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f97316" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML · 14.93%
+        HTML 14.93%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3b82f6" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript · 0.23%
+        TypeScript 0.23%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#14b8a6" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python · 0.19%
+        Python 0.19%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#a855f7" />
+      <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java · 0.14%
+        Java 0.14%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#64748b" />
+      <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP · 0.10%
+        PHP 0.10%
       </text>
     </g>
   </g></g>
