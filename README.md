@@ -121,13 +121,13 @@
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:18px 0;table-layout:fixed;">
   <tr>
     <td valign="top" width="50%">
-      <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #d0d7de;border-radius:12px;color:#24292f;overflow:hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" style="background:#1e1e1e;border:1px solid #3c3c3c;border-radius:12px;color:#d4d4d4;overflow:hidden;">
         <tr>
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
                 <td width="20" valign="middle"><img src="https://cdn.simpleicons.org/vscode/007ACC" alt="vscode" width="18" height="18"></td>
-                <td style="font-size:14px;font-weight:600;color:#24292f;">Most Used Languages</td>
+                <td style="font-size:14px;font-weight:600;color:#9cdcfe;">Most Used Languages</td>
               </tr>
             </table>
           </td>
@@ -137,14 +137,14 @@
             <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
               <tr>
                 <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="18" height="18"></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Jupyter Notebook</td>
-                <td align="right" style="font-size:12px;color:#57606a;">84.42%</td>
+                <td style="font-size:13px;font-weight:500;">Jupyter Notebook</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;">84.42%</td>
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#2d2d30;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="84.42%" style="background:#1f2937;height:10px;"></td>
+                      <td width="84.42%" style="background:#007acc;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -152,14 +152,14 @@
               </tr>
               <tr>
                 <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=html" alt="html" width="18" height="18"></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">HTML</td>
-                <td align="right" style="font-size:12px;color:#57606a;">14.93%</td>
+                <td style="font-size:13px;font-weight:500;">HTML</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;">14.93%</td>
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#2d2d30;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="14.93%" style="background:#1f2937;height:10px;"></td>
+                      <td width="14.93%" style="background:#007acc;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -167,14 +167,14 @@
               </tr>
               <tr>
                 <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="18" height="18"></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">TypeScript</td>
-                <td align="right" style="font-size:12px;color:#57606a;">0.23%</td>
+                <td style="font-size:13px;font-weight:500;">TypeScript</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;">0.23%</td>
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#2d2d30;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.23%" style="background:#1f2937;height:10px;"></td>
+                      <td width="0.23%" style="background:#007acc;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -182,14 +182,14 @@
               </tr>
               <tr>
                 <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=python" alt="python" width="18" height="18"></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Python</td>
-                <td align="right" style="font-size:12px;color:#57606a;">0.19%</td>
+                <td style="font-size:13px;font-weight:500;">Python</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;">0.19%</td>
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#2d2d30;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.19%" style="background:#1f2937;height:10px;"></td>
+                      <td width="0.19%" style="background:#007acc;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -197,14 +197,14 @@
               </tr>
               <tr>
                 <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=java" alt="java" width="18" height="18"></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Java</td>
-                <td align="right" style="font-size:12px;color:#57606a;">0.14%</td>
+                <td style="font-size:13px;font-weight:500;">Java</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;">0.14%</td>
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#2d2d30;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.14%" style="background:#1f2937;height:10px;"></td>
+                      <td width="0.14%" style="background:#007acc;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -212,14 +212,14 @@
               </tr>
               <tr>
                 <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=php" alt="php" width="18" height="18"></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">PHP</td>
-                <td align="right" style="font-size:12px;color:#57606a;">0.10%</td>
+                <td style="font-size:13px;font-weight:500;">PHP</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;">0.10%</td>
               </tr>
               <tr>
                 <td colspan="3">
-                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d1d5db;border-radius:999px;overflow:hidden;">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#2d2d30;border-radius:999px;overflow:hidden;">
                     <tr>
-                      <td width="0.10%" style="background:#1f2937;height:10px;"></td>
+                      <td width="0.10%" style="background:#007acc;height:10px;"></td>
                       <td style="height:10px;"></td>
                     </tr>
                   </table>
@@ -231,13 +231,13 @@
       </table>
     </td>
     <td valign="top" width="50%">
-      <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #d0d7de;border-radius:12px;color:#24292f;overflow:hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" style="background:#1e1e1e;border:1px solid #3c3c3c;border-radius:12px;color:#d4d4d4;overflow:hidden;">
         <tr>
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
                 <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="18" height="18"></td>
-                <td style="font-size:14px;font-weight:600;color:#24292f;">GitHub Stats</td>
+                <td style="font-size:14px;font-weight:600;color:#9cdcfe;">GitHub Stats</td>
               </tr>
             </table>
           </td>
@@ -246,29 +246,29 @@
           <td style="padding:0 18px 18px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Total Stars Earned</td>
-                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">21</td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;">Total Stars Earned</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;font-weight:600;">21</td>
               </tr>
               <tr>
                 <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="18" height="18"></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Total Commits (last year)</td>
-                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">350</td>
+                <td style="font-size:13px;font-weight:500;">Total Commits (last year)</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;font-weight:600;">350</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Total PRs</td>
-                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;">Total PRs</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Total Issues</td>
-                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#f14c4c" d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;">Total Issues</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#1f2937" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2V17zm4 0h-2V7h2V17zm4 0h-2v-4h2V17z"/></svg></td>
-                <td style="font-size:13px;font-weight:500;color:#24292f;">Contributed to (last year)</td>
-                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2V17zm4 0h-2V7h2V17zm4 0h-2v-4h2V17z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;">Contributed to (last year)</td>
+                <td align="right" style="font-size:12px;color:#c5c5c5;font-weight:600;">0</td>
               </tr>
             </table>
           </td>
