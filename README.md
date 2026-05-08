@@ -116,18 +116,50 @@
 
 <h3 align="left">Stats:</h3>
 
-<div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:stretch;margin:30px 0;padding:20px">
-  <div style="flex:1;min-width:320px;padding:24px;border-radius:16px;border:2px solid #e8e8ff;background:linear-gradient(135deg,#ffffff 0%,#f8f9ff 100%);box-shadow:0 8px 32px rgba(99,102,241,0.1);transition:all 0.3s ease;overflow:hidden;position:relative">
-    <div style="position:absolute;top:-50px;right:-50px;width:150px;height:150px;background:radial-gradient(circle,rgba(99,102,241,0.1) 0%,transparent 70%);border-radius:50%"></div>
-	<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;letter-spacing:0.3px;text-transform:none;display:flex;align-items:center;gap:10px"><span style="width:10px;height:10px;border-radius:999px;background:linear-gradient(135deg,#0f172a 0%,#475569 100%);box-shadow:0 0 0 4px rgba(71,85,105,0.12);flex:0 0 auto"></span>Languages</h4>
-    <img src="https://raw.githubusercontent.com/rootcode-creator/rootcode-creator/main/profile/top-langs.svg?v=4" alt="rootcode-creator top languages" style="width:100%;height:260px;object-fit:contain;border-radius:12px;position:relative;z-index:1" />
-  </div>
-  <div style="flex:1;min-width:320px;padding:24px;border-radius:16px;border:2px solid #ffe8f0;background:linear-gradient(135deg,#ffffff 0%,#fff8fb 100%);box-shadow:0 8px 32px rgba(245,87,108,0.1);transition:all 0.3s ease;overflow:hidden;position:relative">
-    <div style="position:absolute;top:-50px;right:-50px;width:150px;height:150px;background:radial-gradient(circle,rgba(245,87,108,0.1) 0%,transparent 70%);border-radius:50%"></div>
-	<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;letter-spacing:0.3px;text-transform:none;display:flex;align-items:center;gap:10px"><span style="width:10px;height:10px;border-radius:999px;background:linear-gradient(135deg,#0f172a 0%,#475569 100%);box-shadow:0 0 0 4px rgba(71,85,105,0.12);flex:0 0 auto"></span>Stats</h4>
-    <img src="https://raw.githubusercontent.com/rootcode-creator/rootcode-creator/main/profile/stats.svg?v=4" alt="rootcode-creator stats" style="width:100%;height:260px;object-fit:contain;border-radius:12px;position:relative;z-index:1" />
-  </div>
+<table style="width:100%;border-collapse:collapse;margin:30px 0">
+<tr>
+<td style="width:50%;padding:10px;vertical-align:top">
+
+<div style="background:linear-gradient(135deg,#ffffff 0%,#f8f9ff 100%);border:1px solid #e8e8ff;border-radius:16px;padding:24px;box-shadow:0 8px 32px rgba(99,102,241,0.1)">
+<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;color:#667eea">📊 Top Languages</h4>
+
+<svg width="280" height="140" viewBox="0 0 280 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="280" height="140" rx="8" fill="#ffffff"/>
+  <rect x="10" y="10" width="211" height="8" rx="4" fill="#f59e0b"/>
+  <rect x="226" y="10" width="37" height="8" rx="4" fill="#f97316"/>
+  <rect x="10" y="28" width="211" height="8" rx="4" fill="#f59e0b" opacity="0.6"/>
+  <rect x="226" y="28" width="37" height="8" rx="4" fill="#f97316" opacity="0.6"/>
+  <text x="10" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">Jupyter Notebook · 84.42%</text>
+  <text x="10" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">HTML · 14.93%</text>
+  <text x="10" y="84" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">TypeScript · 0.23%</text>
+  <text x="150" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">Python · 0.19%</text>
+  <text x="150" y="68" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">Java · 0.14%</text>
+  <text x="150" y="84" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11" fill="#475569">PHP · 0.10%</text>
+</svg>
+
 </div>
+
+</td>
+<td style="width:50%;padding:10px;vertical-align:top">
+
+<div style="background:linear-gradient(135deg,#ffffff 0%,#fff8fb 100%);border:1px solid #ffe8f0;border-radius:16px;padding:24px;box-shadow:0 8px 32px rgba(245,87,108,0.1)">
+<h4 style="margin:0 0 16px 0;font-size:16px;font-weight:800;color:#f5576c">📈 GitHub Stats</h4>
+
+<svg width="280" height="140" viewBox="0 0 280 140" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="280" height="140" rx="8" fill="#ffffff"/>
+  <text x="10" y="30" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">⭐ 21 Stars</text>
+  <text x="150" y="30" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">📝 363 Commits</text>
+  <text x="10" y="65" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">🚀 0 PRs</text>
+  <text x="150" y="65" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600" fill="#475569">❓ 0 Issues</text>
+  <circle cx="240" cy="50" r="20" fill="none" stroke="#1f2937" stroke-width="2" opacity="0.2"/>
+  <text x="240" y="60" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="20" font-weight="800" fill="#475569">C+</text>
+</svg>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 
 <br clear="right" />
