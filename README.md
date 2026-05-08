@@ -117,7 +117,7 @@
 </table>
 
 
-[![Kawser's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcode-creator)](https://github.com/rootcode-creator/rootcode-creator)
+[![](https://github-readme-stats.vercel.app/api?username=rootcode-creator)](https://github.com/rootcode-creator/rootcode-creator)
 
 
 
