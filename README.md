@@ -118,152 +118,165 @@
 
 <h3 align="left">Stats:</h3>
 
-<div style="display:flex;flex-wrap:nowrap;gap:24px;align-items:stretch;justify-content:space-between;margin:20px 0;width:100%">
-  <!-- Most Used Languages Card -->
-  <div style="flex:1;border-radius:12px;padding:24px;box-shadow:0 8px 16px rgba(0,0,0,0.1);border:1px solid #e1e4e8;min-width:0">
-    <h4 style="margin:0 0 16px 0;font-size:14px;font-weight:500;color:#666;display:flex;align-items:center;gap:8px"><img src="https://cdn.simpleicons.org/python/1f2937" alt="languages" style="width:18px;height:18px"> Most Used Languages</h4>
-    <div style="display:flex;flex-direction:column;gap:8px;font-size:13px">
-      <div style="display:flex;align-items:center;gap:12px">
-        <div style="width:120px;flex-shrink:0">
-          <div style="display:flex;align-items:center;gap:6px">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" style="width:20px;height:20px">
-            <span style="font-weight:500">Jupyter Notebook</span>
-          </div>
-        </div>
-        <div style="flex:1;display:flex;align-items:center;gap:8px">
-          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
-            <div style="background:#1f2937;height:100%;width:84.42%;position:relative;overflow:hidden">
-              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
-            </div>
-          </div>
-          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">84.42%</span>
-        </div>
-      </div>
-      <div style="display:flex;align-items:center;gap:12px">
-        <div style="width:120px;flex-shrink:0">
-          <div style="display:flex;align-items:center;gap:6px">
-            <img src="https://skillicons.dev/icons?i=html" alt="html" style="width:16px;height:16px">
-            <span style="font-weight:500">HTML</span>
-          </div>
-        </div>
-        <div style="flex:1;display:flex;align-items:center;gap:8px">
-          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
-            <div style="background:#1f2937;height:100%;width:14.93%;position:relative;overflow:hidden">
-              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
-            </div>
-          </div>
-          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">14.93%</span>
-        </div>
-      </div>
-      <div style="display:flex;align-items:center;gap:12px">
-        <div style="width:120px;flex-shrink:0">
-          <div style="display:flex;align-items:center;gap:6px">
-            <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" style="width:16px;height:16px">
-            <span style="font-weight:500">TypeScript</span>
-          </div>
-        </div>
-        <div style="flex:1;display:flex;align-items:center;gap:8px">
-          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
-            <div style="background:#1f2937;height:100%;width:0.23%;position:relative;overflow:hidden">
-              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
-            </div>
-          </div>
-          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.23%</span>
-        </div>
-      </div>
-      <div style="display:flex;align-items:center;gap:12px">
-        <div style="width:120px;flex-shrink:0">
-          <div style="display:flex;align-items:center;gap:6px">
-            <img src="https://skillicons.dev/icons?i=python" alt="python" style="width:16px;height:16px">
-            <span style="font-weight:500">Python</span>
-          </div>
-        </div>
-        <div style="flex:1;display:flex;align-items:center;gap:8px">
-          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
-            <div style="background:#1f2937;height:100%;width:0.19%;position:relative;overflow:hidden">
-              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
-            </div>
-          </div>
-          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.19%</span>
-        </div>
-      </div>
-      <div style="display:flex;align-items:center;gap:12px">
-        <div style="width:120px;flex-shrink:0">
-          <div style="display:flex;align-items:center;gap:6px">
-            <img src="https://skillicons.dev/icons?i=java" alt="java" style="width:16px;height:16px">
-            <span style="font-weight:500">Java</span>
-          </div>
-        </div>
-        <div style="flex:1;display:flex;align-items:center;gap:8px">
-          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
-            <div style="background:#1f2937;height:100%;width:0.14%;position:relative;overflow:hidden">
-              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
-            </div>
-          </div>
-          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.14%</span>
-        </div>
-      </div>
-      <div style="display:flex;align-items:center;gap:12px">
-        <div style="width:120px;flex-shrink:0">
-          <div style="display:flex;align-items:center;gap:6px">
-            <img src="https://skillicons.dev/icons?i=php" alt="php" style="width:16px;height:16px">
-            <span style="font-weight:500">PHP</span>
-          </div>
-        </div>
-        <div style="flex:1;display:flex;align-items:center;gap:8px">
-          <div style="flex:1;background:rgba(0,0,0,0.1);height:16px;border-radius:3px;overflow:hidden;position:relative">
-            <div style="background:#1f2937;height:100%;width:0.10%;position:relative;overflow:hidden">
-              <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(255,255,255,0.3) 2px,rgba(255,255,255,0.3) 4px)"></div>
-            </div>
-          </div>
-          <span style="width:45px;text-align:right;font-weight:500;color:#1f2937">0.10%</span>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- GitHub Stats Card -->
-  <div style="flex:1;border-radius:12px;padding:24px;box-shadow:0 8px 16px rgba(0,0,0,0.1);border:1px solid #e1e4e8;min-width:0">
-    <h4 style="margin:0 0 16px 0;font-size:14px;font-weight:500;color:#666;display:flex;align-items:center;gap:8px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" style="width:18px;height:18px"> GitHub Stats</h4>
-    <div style="display:flex;flex-direction:column;gap:12px;font-size:13px">
-      <div style="display:flex;align-items:center;justify-content:space-between">
-        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
-          <svg style="width:20px;height:20px;fill:#FFD700" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          <span>Total Stars Earned</span>
-        </div>
-        <div style="font-weight:600;color:#1f2937">21</div>
-      </div>
-      <div style="display:flex;align-items:center;justify-content:space-between">
-        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="commits" style="width:20px;height:20px">
-          <span>Total Commits (last year)</span>
-        </div>
-        <div style="font-weight:600;color:#1f2937">350</div>
-      </div>
-      <div style="display:flex;align-items:center;justify-content:space-between">
-        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
-          <svg style="width:20px;height:20px;fill:#1f2937" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
-          <span>Total PRs</span>
-        </div>
-        <div style="font-weight:600;color:#1f2937">0</div>
-      </div>
-      <div style="display:flex;align-items:center;justify-content:space-between">
-        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
-          <svg style="width:20px;height:20px;fill:#E74C3C" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg>
-          <span>Total Issues</span>
-        </div>
-        <div style="font-weight:600;color:#1f2937">0</div>
-      </div>
-      <div style="display:flex;align-items:center;justify-content:space-between">
-        <div style="display:flex;align-items:center;gap:8px;font-weight:500">
-          <svg style="width:20px;height:20px;fill:#1f2937" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2V17zm4 0h-2V7h2V17zm4 0h-2v-4h2V17z"/></svg>
-          <span>Contributed to (last year)</span>
-        </div>
-        <div style="font-weight:600;color:#1f2937">0</div>
-      </div>
-    </div>
-  </div>
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:18px 0;table-layout:fixed;">
+  <tr>
+    <td valign="top" width="50%">
+      <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #d0d7de;border-radius:12px;color:#24292f;overflow:hidden;">
+        <tr>
+          <td style="padding:16px 18px 8px 18px;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="20" valign="middle"><img src="https://cdn.simpleicons.org/vscode/007ACC" alt="vscode" width="18" height="18"></td>
+                <td style="font-size:14px;font-weight:600;color:#0969da;">Most Used Languages</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0 18px 18px 18px;">
+            <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
+              <tr>
+                <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="18" height="18"></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Jupyter Notebook</td>
+                <td align="right" style="font-size:12px;color:#57606a;">84.42%</td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                    <tr>
+                      <td width="84.42%" style="background:#0969da;height:10px;"></td>
+                      <td style="height:10px;"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=html" alt="html" width="18" height="18"></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">HTML</td>
+                <td align="right" style="font-size:12px;color:#57606a;">14.93%</td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                    <tr>
+                      <td width="14.93%" style="background:#0969da;height:10px;"></td>
+                      <td style="height:10px;"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="18" height="18"></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">TypeScript</td>
+                <td align="right" style="font-size:12px;color:#57606a;">0.23%</td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                    <tr>
+                      <td width="0.23%" style="background:#0969da;height:10px;"></td>
+                      <td style="height:10px;"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=python" alt="python" width="18" height="18"></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Python</td>
+                <td align="right" style="font-size:12px;color:#57606a;">0.19%</td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                    <tr>
+                      <td width="0.19%" style="background:#0969da;height:10px;"></td>
+                      <td style="height:10px;"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=java" alt="java" width="18" height="18"></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Java</td>
+                <td align="right" style="font-size:12px;color:#57606a;">0.14%</td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                    <tr>
+                      <td width="0.14%" style="background:#0969da;height:10px;"></td>
+                      <td style="height:10px;"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=php" alt="php" width="18" height="18"></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">PHP</td>
+                <td align="right" style="font-size:12px;color:#57606a;">0.10%</td>
+              </tr>
+              <tr>
+                <td colspan="3">
+                  <table width="100%" cellpadding="0" cellspacing="0" style="background:#d0d7de;border-radius:999px;overflow:hidden;">
+                    <tr>
+                      <td width="0.10%" style="background:#0969da;height:10px;"></td>
+                      <td style="height:10px;"></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="50%">
+      <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #d0d7de;border-radius:12px;color:#24292f;overflow:hidden;">
+        <tr>
+          <td style="padding:16px 18px 8px 18px;">
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="18" height="18"></td>
+                <td style="font-size:14px;font-weight:600;color:#0969da;">GitHub Stats</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding:0 18px 18px 18px;">
+            <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
+              <tr>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Total Stars Earned</td>
+                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">21</td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="18" height="18"></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Total Commits (last year)</td>
+                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">350</td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Total PRs</td>
+                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#f14c4c" d="M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Total Issues</td>
+                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
+              </tr>
+              <tr>
+                <td width="20" valign="middle"><svg width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path fill="#007acc" d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2V17zm4 0h-2V7h2V17zm4 0h-2v-4h2V17z"/></svg></td>
+                <td style="font-size:13px;font-weight:500;color:#24292f;">Contributed to (last year)</td>
+                <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
 <br clear="right" />
