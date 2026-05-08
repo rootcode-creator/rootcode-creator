@@ -116,12 +116,12 @@
 	</tr>
 </table>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootcode-creator&show_icons=true&locale=en&layout=compact" alt="rootcode-creator" /></p>
 
-[![](https://github-readme-stats.vercel.app/api?username=rootcode-creator&theme=radical)](https://github.com/rootcode-creator/rootcode-creator)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&locale=en" alt="rootcode-creator" /></p>
 
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
