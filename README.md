@@ -116,6 +116,10 @@
 	</tr>
 </table>
 
+
+[![Kawser's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcode-creator)](https://github.com/rootcode-creator/rootcode-creator)
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&theme=dark"
@@ -127,7 +131,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true" />
 </picture>
-
 
 
 
