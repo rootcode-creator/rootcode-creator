@@ -121,7 +121,7 @@
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:18px 0;table-layout:fixed;">
   <tr>
     <td valign="top" width="50%">
-      <table width="100%" cellpadding="0" cellspacing="0" style="background:#1e1e1e;border:1px solid #3c3c3c;border-radius:12px;color:#d4d4d4;overflow:hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #e5e7eb;border-radius:12px;color:#d4d4d4;overflow:hidden;box-shadow:0 8px 18px rgba(15,23,42,0.08);">
         <tr>
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
@@ -231,7 +231,7 @@
       </table>
     </td>
     <td valign="top" width="50%">
-      <table width="100%" cellpadding="0" cellspacing="0" style="background:#1e1e1e;border:1px solid #3c3c3c;border-radius:12px;color:#d4d4d4;overflow:hidden;">
+      <table width="100%" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #e5e7eb;border-radius:12px;color:#d4d4d4;overflow:hidden;box-shadow:0 8px 18px rgba(15,23,42,0.08);">
         <tr>
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
