@@ -38,7 +38,7 @@
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table width="100%" align="center">
 	<colgroup>
 		<col width="12.5%">
 		<col width="12.5%">
