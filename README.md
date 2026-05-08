@@ -5,9 +5,8 @@
 
 ### A passionate coder,frontend-backend developer, and computer engineering undergrad student from Bangladesh.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&theme=radical)](https://github.com/rootcode-creator)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rootcode-creator&theme=radical)](https://github.com/rootcode-creator)
+![GitHub Stats](https://img.shields.io/github/followers/rootcode-creator?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/rootcode-creator?style=social)
 
 <p>
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjcGg2ZTB2N2d4Yjk2bmw3enV4b2JrNGFhaDluZnU1cWtyZzdnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coding" width="320" />
