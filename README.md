@@ -29,7 +29,7 @@
 		<td align="center"><a href="https://twitter.com/mdshakil4364" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdshakil4364" height="30" width="40" /></a></td>
 		<td align="center"><a href="https://medium.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
 		<td align="center"><a href="https://youtube.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
-		<td align="center"><a href="https://codechef.com/users/rootcode_crea" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="rootcode_crea" height="30" width="40" /></a></td>
+		<td align="center"><a href="https://codechef.com/users/rootcode_crea" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="rootcode_crea" height="30" width="40" /></a></td>
 		<td align="center"><a href="https://hackerrank.com/rootcodecreator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rootcodecreator" height="30" width="40" /></a></td>
 		<td align="center"><a href="https://codeforces.com/profile/cherry-picked" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cherry-picked" height="30" width="40" /></a></td>
 		<td align="center"><a href="https://leetcode.com/rootcode-creator" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rootcode-creator" height="30" width="40" /></a></td>
@@ -114,6 +114,10 @@
 	</tr>
 </table>
 
+
+
+<br clear="right" />
+
 <h3 align="left">Stats:</h3>
 
 <div style="display:flex;flex-wrap:nowrap;gap:12px;align-items:flex-start;justify-content:space-between">
@@ -121,6 +125,8 @@
   <img src="./profile/stats.svg" alt="rootcode-creator stats" style="max-width:480px; width:45%; height:auto;" />
 </div>
 
+
+<br clear="right" />
 
 
 # Blog posts
