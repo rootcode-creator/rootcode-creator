@@ -2,6 +2,7 @@
 	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjcGg2ZTB2N2d4Yjk2bmw3enV4b2JrNGFhaDluZnU1cWtyZzdnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coding" width="100%" />
 </p>
 
+
 # Hi 👋, I'm Kawser Ahmad
 
 ### A passionate coder,frontend-backend developer, and computer engineering undergrad student from Bangladesh.
