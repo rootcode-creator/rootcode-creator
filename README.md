@@ -120,7 +120,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&locale=en" alt="rootcode-creator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootcode-creator&" alt="rootcode-creator" /></p>
+
+![Kawser's GitHub stats](https://github-readme-stats.vercel.app/api?username=rootcode-creator&show_icons=true&theme=radical)
 
 
 
