@@ -121,12 +121,12 @@
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:18px 0;table-layout:fixed;">
   <tr>
     <td valign="top" width="50%">
-      <table width="100%" height="430" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #d0d7de;border-radius:12px;color:#24292f;overflow:hidden;box-shadow:0 8px 18px rgba(15,23,42,0.08);min-height:430px;">
+      <table width="100%" height="400" cellpadding="0" cellspacing="0" style="background:#ffffff;border:1px solid #d0d7de;border-radius:12px;color:#24292f;overflow:hidden;box-shadow:0 8px 18px rgba(15,23,42,0.08);min-height:400px;">
         <tr>
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:16px">🟦</span></td>
                 <td style="font-size:14px;font-weight:600;color:#24292f;">Most Used Languages</td>
               </tr>
             </table>
@@ -136,7 +136,7 @@
           <td style="padding:0 18px 18px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
               <tr>
-                <td width="20" valign="middle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">📓</span></td>
                 <td style="font-size:13px;font-weight:500;">Jupyter Notebook</td>
                 <td align="right" style="font-size:12px;color:#57606a;">84.42%</td>
               </tr>
@@ -151,7 +151,7 @@
                 </td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=html" alt="html" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">🌐</span></td>
                 <td style="font-size:13px;font-weight:500;">HTML</td>
                 <td align="right" style="font-size:12px;color:#57606a;">14.93%</td>
               </tr>
@@ -166,7 +166,7 @@
                 </td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">🧩</span></td>
                 <td style="font-size:13px;font-weight:500;">TypeScript</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.23%</td>
               </tr>
@@ -181,7 +181,7 @@
                 </td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=python" alt="python" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">🐍</span></td>
                 <td style="font-size:13px;font-weight:500;">Python</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.19%</td>
               </tr>
@@ -196,7 +196,7 @@
                 </td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=java" alt="java" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">☕</span></td>
                 <td style="font-size:13px;font-weight:500;">Java</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.14%</td>
               </tr>
@@ -211,7 +211,7 @@
                 </td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=php" alt="php" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">🟪</span></td>
                 <td style="font-size:13px;font-weight:500;">PHP</td>
                 <td align="right" style="font-size:12px;color:#57606a;">0.10%</td>
               </tr>
@@ -236,7 +236,7 @@
           <td style="padding:16px 18px 8px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=github" alt="github" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:16px">⭐</span></td>
                 <td style="font-size:14px;font-weight:600;color:#24292f;">GitHub Stats</td>
               </tr>
             </table>
@@ -246,27 +246,27 @@
           <td style="padding:0 18px 18px 18px;">
             <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:separate;border-spacing:0 10px;">
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=github" alt="stars" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">🌟</span></td>
                 <td style="font-size:13px;font-weight:500;">Total Stars Earned</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">21</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=git" alt="commits" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">🔁</span></td>
                 <td style="font-size:13px;font-weight:500;">Total Commits (last year)</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">350</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=github" alt="prs" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">🔀</span></td>
                 <td style="font-size:13px;font-weight:500;">Total PRs</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=github" alt="issues" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">⚠️</span></td>
                 <td style="font-size:13px;font-weight:500;">Total Issues</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
               <tr>
-                <td width="20" valign="middle"><img src="https://skillicons.dev/icons?i=github" alt="contributions" width="18" height="18"></td>
+                <td width="20" valign="middle"><span style="font-size:15px">📊</span></td>
                 <td style="font-size:13px;font-weight:500;">Contributed to (last year)</td>
                 <td align="right" style="font-size:12px;color:#57606a;font-weight:600;">0</td>
               </tr>
