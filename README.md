@@ -9,19 +9,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootcode-creator" alt="rootcode-creator" /></a> </p>
 
-<table>
-	<tr>
-		<td valign="top" width="60%">
-			<p>📫 How to reach me <strong>mdshakil4364@gmail.com</strong></p>
-			<p>⚡ Fun fact <strong>There are more possible moves in a game of Chess than there are atoms in the observable universe.</strong></p>
-			<p>👨‍💻 All of my projects are available at <strong><a href="https://github.com/rootcode-creator">Github</a></strong></p>
-			<p>📝 I regularly write articles on <strong><a href="https://kawserahmed.tech">https://kawserahmed.tech</a></strong></p>
-		</td>
-		<td align="right" width="40%">
-			<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjcGg2ZTB2N2d4Yjk2bmw3enV4b2JrNGFhaDluZnU1cWtyZzdnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coding" width="320" />
-		</td>
-	</tr>
-</table>
+<p>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVjcGg2ZTB2N2d4Yjk2bmw3enV4b2JrNGFhaDluZnU1cWtyZzdnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coding" width="320" />
+</p>
+
+<p>📫 How to reach me <strong>mdshakil4364@gmail.com</strong></p>
+<p>⚡ Fun fact <strong>There are more possible moves in a game of Chess than there are atoms in the observable universe.</strong></p>
+<p>👨‍💻 All of my projects are available at <strong><a href="https://github.com/rootcode-creator">Github</a></strong></p>
+<p>📝 I regularly write articles on <strong><a href="https://kawserahmed.tech">https://kawserahmed.tech</a></strong></p>
+
+<br clear="right" />
 
 
 <h3 align="left">Connect with me:</h3>
