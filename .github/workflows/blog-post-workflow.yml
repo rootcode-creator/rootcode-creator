@@ -20,4 +20,4 @@ jobs:
           readme_path: ./README.md
           user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
           accept_header: application/rss+xml,application/xml;q=0.9,*/*;q=0.8
-          feed_list: "https://kawserahmed.tech/feed/,https://medium.com/feed/%40rootcode-creator"
+          feed_list: "https://kawserahmed.tech/feed/,https://medium.com/feed/@rootcode-creator"
