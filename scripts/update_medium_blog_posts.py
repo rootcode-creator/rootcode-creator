@@ -57,6 +57,20 @@ def extract_posts(page) -> list[tuple[str, str]]:
     return posts
 
 
+def extract_canonical_title(page) -> str:
+    try:
+        page.wait_for_selector("h1", timeout=30000)
+        title = normalize_text(page.locator("h1").first.inner_text())
+        if title:
+            return title
+    except Exception:
+        pass
+
+    meta_title = page.locator('meta[property="og:title"]').first
+    content = meta_title.get_attribute("content") if meta_title else None
+    return normalize_text(content or "")
+
+
 def update_readme(posts: list[tuple[str, str]]) -> None:
     if not posts:
         raise RuntimeError("No Medium posts were found on the profile page.")
@@ -87,7 +101,18 @@ def main() -> None:
             )
         )
         page.goto(PROFILE_URL, wait_until="domcontentloaded", timeout=60000)
-        posts = extract_posts(page)
+        profile_posts = extract_posts(page)
+
+        posts: list[tuple[str, str]] = []
+        for _profile_title, profile_url in profile_posts:
+            try:
+                page.goto(profile_url, wait_until="domcontentloaded", timeout=60000)
+                canonical_title = extract_canonical_title(page)
+            except Exception:
+                canonical_title = ""
+
+            posts.append((canonical_title or _profile_title, profile_url.split("?", 1)[0]))
+
         browser.close()
 
     update_readme(posts)
