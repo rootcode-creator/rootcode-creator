@@ -44,7 +44,7 @@ def extract_posts(page) -> list[tuple[str, str]]:
         anchors = article.locator('a[href*="/@rootcode-creator/"]')
         for anchor_index in range(anchors.count()):
             href = anchors.nth(anchor_index).get_attribute("href")
-            if href:
+            if href and re.search(r"/@rootcode-creator/[^?/#]+", href):
                 link = urljoin("https://medium.com", href)
                 break
 
