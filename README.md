@@ -242,6 +242,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Post](https://medium.com/@rootcode-creator/post-23f007be5739?source=rss-1af27e590825------2)
+- [test](https://medium.com/@rootcode-creator/test-4a440c9d9341?source=rss-1af27e590825------2)
+- [Show your latest blog](https://medium.com/@rootcode-creator/post-23f007be5739?source=rss-1af27e590825------2)
 - [kyhd](https://medium.com/@rootcode-creator/kyhd-ea47fbef1f1e?source=rss-1af27e590825------2)
 <!-- BLOG-POST-LIST:END -->
