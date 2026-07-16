@@ -26,3 +26,14 @@ jobs:
           python -m playwright install --with-deps chromium
       - name: Pull in Medium posts
         run: python scripts/update_medium_blog_posts.py
+      - name: Commit and push README update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git commit -m "Update blog posts [skip ci]"
+          git push
