@@ -22,34 +22,30 @@ def normalize_text(value: str) -> str:
 
 
 def extract_posts(page) -> list[tuple[str, str]]:
-    page.wait_for_selector("article", timeout=60000)
+    page.wait_for_selector('a[href*="/@rootcode-creator/"]', timeout=60000)
 
     posts: list[tuple[str, str]] = []
     seen_urls: set[str] = set()
-    articles = page.locator("article")
+    anchors = page.locator('a[href*="/@rootcode-creator/"]')
 
-    for index in range(articles.count()):
-        article = articles.nth(index)
+    for index in range(anchors.count()):
+        anchor = anchors.nth(index)
+        href = anchor.get_attribute("href")
+        if not href or not re.search(r"/@rootcode-creator/[^?/#]+", href):
+            continue
+
+        link = urljoin("https://medium.com", href.split("?", 1)[0])
+        if link in seen_urls:
+            continue
 
         try:
-            title = normalize_text(article.locator("h2").first.inner_text())
+            title = normalize_text(anchor.text_content() or "")
         except PlaywrightTimeoutError:
             continue
         except Exception:
             continue
 
-        if not title:
-            continue
-
-        link = None
-        anchors = article.locator('a[href*="/@rootcode-creator/"]')
-        for anchor_index in range(anchors.count()):
-            href = anchors.nth(anchor_index).get_attribute("href")
-            if href and re.search(r"/@rootcode-creator/[^?/#]+", href):
-                link = urljoin("https://medium.com", href)
-                break
-
-        if not link or link in seen_urls:
+        if not title or title.lower() in {"", "add to list bookmark button"}:
             continue
 
         seen_urls.add(link)
