@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import re
 from html import unescape
 from pathlib import Path
@@ -58,6 +59,25 @@ def extract_posts(page) -> list[tuple[str, str]]:
 
 
 def extract_canonical_title(page) -> str:
+    try:
+        scripts = page.locator('script[type="application/ld+json"]')
+        for index in range(scripts.count()):
+            raw_json = scripts.nth(index).text_content()
+            if not raw_json:
+                continue
+
+            parsed = json.loads(raw_json)
+            entries = parsed if isinstance(parsed, list) else [parsed]
+            for entry in entries:
+                if not isinstance(entry, dict):
+                    continue
+
+                headline = normalize_text(str(entry.get("headline") or entry.get("name") or ""))
+                if headline and headline.lower() not in {"medium", "medium.com"}:
+                    return headline
+    except Exception:
+        pass
+
     try:
         page.wait_for_selector("h1", timeout=30000)
         title = normalize_text(page.locator("h1").first.inner_text())
