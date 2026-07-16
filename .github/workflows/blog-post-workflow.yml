@@ -22,8 +22,7 @@ jobs:
           gh_token: ${{ github.token }}
           readme_path: ./README.md
           max_post_count: 10
-          disable_sort: true
           disable_item_validation: true
           user_agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
           accept_header: application/rss+xml,application/xml;q=0.9,*/*;q=0.8
-          feed_list: "https://medium.com/feed/@rootcode-creator,https://kawserahmed.tech/feed/"
+          feed_list: "https://medium.com/feed/@rootcode-creator"
