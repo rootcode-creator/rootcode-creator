@@ -16,4 +16,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://kawserahmed.tech/feed/,https://medium.com/feed/%40rootcode-creator"
+          gh_token: ${{ github.token }}
+          readme_path: ./README.md
+          feed_list: "https://medium.com/feed/%40rootcode-creator"
