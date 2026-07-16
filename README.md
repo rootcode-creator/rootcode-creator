@@ -243,6 +243,5 @@
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [medium.com](https://medium.com/@rootcode-creator/test-4a440c9d9341)
-- [medium.com](https://medium.com/@rootcode-creator/post-23f007be5739)
 - [medium.com](https://medium.com/@rootcode-creator/kyhd-ea47fbef1f1e)
 <!-- BLOG-POST-LIST:END -->
