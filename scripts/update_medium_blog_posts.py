@@ -22,15 +22,21 @@ def normalize_text(value: str) -> str:
 
 
 def extract_posts(page) -> list[tuple[str, str]]:
-    page.wait_for_selector('a[href*="/@rootcode-creator/"]', timeout=60000)
-
     posts: list[tuple[str, str]] = []
     seen_urls: set[str] = set()
     anchors = page.locator('a[href*="/@rootcode-creator/"]')
 
+    hrefs: list[str] = []
     for index in range(anchors.count()):
-        anchor = anchors.nth(index)
-        href = anchor.get_attribute("href")
+        href = anchors.nth(index).get_attribute("href")
+        if href:
+            hrefs.append(href)
+
+    if not hrefs:
+        html = page.content()
+        hrefs = re.findall(r'href="([^"]*/@rootcode-creator/[^"#?]+(?:\?[^"]*)?)"', html)
+
+    for href in hrefs:
         if not href or not re.search(r"/@rootcode-creator/[^?/#]+", href):
             continue
 
@@ -38,15 +44,9 @@ def extract_posts(page) -> list[tuple[str, str]]:
         if link in seen_urls:
             continue
 
-        try:
-            title = normalize_text(anchor.text_content() or "")
-        except PlaywrightTimeoutError:
-            continue
-        except Exception:
-            continue
-
-        if not title or title.lower() in {"", "add to list bookmark button"}:
-            continue
+        match = re.search(r"/@rootcode-creator/([^?/#]+)", link)
+        slug = match.group(1) if match else link.rsplit("/", 1)[-1]
+        title = normalize_text(slug.replace("-", " "))
 
         seen_urls.add(link)
         posts.append((title, link))
