@@ -242,6 +242,6 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [text formatting](https://medium.com/@rootcode-creator/test-4a440c9d9341)
+- [formatting](https://medium.com/@rootcode-creator/test-4a440c9d9341)
 - [ghukkkkk](https://medium.com/@rootcode-creator/kyhd-ea47fbef1f1e)
 <!-- BLOG-POST-LIST:END -->
