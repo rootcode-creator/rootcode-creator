@@ -14,7 +14,7 @@
 <p>📫 How to reach me <strong>mdshakil4364@gmail.com</strong></p>
 <p>⚡ Fun fact <strong>There are more possible moves in a game of Chess than there are atoms in the observable universe.</strong></p>
 <p>👨‍💻 All of my projects are available at <strong><a href="https://github.com/rootcode-creator">Github</a></strong></p>
-<p>📝 I regularly write articles on <strong><a href="https://kawserahmed.tech">https://kawserahmed.tech</a></strong></p>
+<p>📝 I regularly write articles on <strong><a href="https://kawserahmed.tech">https://kawserahmad.space</a></strong></p>
 
 <br clear="right" />
 
