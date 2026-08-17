@@ -242,5 +242,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Booking Platform: How We Handle Multi-Currency Payments and Date…](https://medium.com/@rootcode-creator/building-a-production-ready-booking-platform-how-we-handle-multi-currency-payments-and-date-417822148c97)
+- [Building a production-ready booking platform: how we handle multi-currency payments and date…](https://medium.com/@rootcode-creator/building-a-production-ready-booking-platform-how-we-handle-multi-currency-payments-and-date-417822148c97)
 <!-- BLOG-POST-LIST:END -->
