@@ -242,6 +242,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [formatting](https://medium.com/@rootcode-creator/test-4a440c9d9341)
-- [ghukkkkk](https://medium.com/@rootcode-creator/kyhd-ea47fbef1f1e)
+- [Building a Production-Ready Booking Platform: How We Handle Multi-Currency Payments and Date…](https://medium.com/@rootcode-creator/building-a-production-ready-booking-platform-how-we-handle-multi-currency-payments-and-date-417822148c97)
 <!-- BLOG-POST-LIST:END -->
