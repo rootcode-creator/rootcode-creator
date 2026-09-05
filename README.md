@@ -242,5 +242,6 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Match Vault: building a role-aware matchmaking platform with real-time conversations and video…](https://medium.com/@rootcode-creator/match-vault-building-a-role-aware-matchmaking-platform-with-real-time-conversations-and-video-82ad0f3a2c57)
 - [Building a production-ready booking platform: how we handle multi-currency payments and date…](https://medium.com/@rootcode-creator/building-a-production-ready-booking-platform-how-we-handle-multi-currency-payments-and-date-417822148c97)
 <!-- BLOG-POST-LIST:END -->
